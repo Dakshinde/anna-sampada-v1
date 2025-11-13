@@ -7,3 +7,4 @@ googlemaps
 google-generativeai
 scikit-learn
 firebase-admin
+gunicorn
