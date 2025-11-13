@@ -1,15 +1,9 @@
 Flask
-pymongo>=4.0
 flask-cors
 python-dotenv
-bcrypt
-PyJWT
 joblib
 pandas
-google-api-python-client
 googlemaps
 google-generativeai
-
-
 scikit-learn
 firebase-admin
