@@ -12,5 +12,4 @@ google-generativeai
 
 
 scikit-learn
-smtplib
 firebase-admin
