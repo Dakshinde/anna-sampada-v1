@@ -8,11 +8,6 @@
 
 **Anna Sampada** is an intelligent web platform that integrates multiple machine learning models with a generative AI assistant to help users predict food spoilage, create recipes from leftovers, and donate surplus food efficiently.
 
-### **Live Demo**
-
-[https://anna-sampada-v1.vercel.app](https://anna-sampada-v1.vercel.app)
-*(Replace with your actual deployed link.)*
-
 ---
 
 ## **Core Features**
